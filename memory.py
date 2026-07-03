@@ -8,6 +8,8 @@ DEFAULT_USER_MEMORY = {
     "czech_level": "unknown",
     "english_level": "unknown",
     "current_language": None,
+    "assessment_mode": None,
+    "assessment_step": 0,
     "assessment_answers": [],
     "known_topics": [],
     "mistakes": [],
